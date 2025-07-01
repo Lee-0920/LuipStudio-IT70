@@ -1,0 +1,14 @@
+INPUT(
+./release\TN67DriveControllerplugin.o
+./release\MeterPoints.o
+./release\OpticalMeterInterface.o
+./release\PeristalticPumpInterface.o
+./release\SolenoidValveInterface.o
+./release\ValveMap.o
+./release\TemperatureControlInterface.o
+./release\OpticalAcquireInterface.o
+./release\TN67DriveController.o
+./release\Log.o
+./release\TN67DriveControllerPluginProxy.o
+./release\moc_TN67DriveController.o
+);

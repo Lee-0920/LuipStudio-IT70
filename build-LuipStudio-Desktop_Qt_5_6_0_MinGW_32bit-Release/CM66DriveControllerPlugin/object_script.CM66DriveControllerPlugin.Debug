@@ -1,0 +1,14 @@
+INPUT(
+./debug\CM66DriveControllerplugin.o
+./debug\MeterPoints.o
+./debug\OpticalMeterInterface.o
+./debug\PeristalticPumpInterface.o
+./debug\SolenoidValveInterface.o
+./debug\TemperatureControlInterface.o
+./debug\TitrationOperateInterface.o
+./debug\ValveMap.o
+./debug\Log.o
+./debug\CM66DriveController.o
+./debug\CM66DriveControllerPluginProxy.o
+./debug\moc_CM66DriveController.o
+);

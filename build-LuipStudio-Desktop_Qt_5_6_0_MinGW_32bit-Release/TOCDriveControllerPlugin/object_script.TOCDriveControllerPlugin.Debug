@@ -1,0 +1,16 @@
+INPUT(
+./debug\TOCDriveControllerplugin.o
+./debug\MeterPoints.o
+./debug\OpticalMeterInterface.o
+./debug\PeristalticPumpInterface.o
+./debug\SolenoidValveInterface.o
+./debug\ValveMap.o
+./debug\TOCDriveController.o
+./debug\Log.o
+./debug\TOCDriveControllerPluginProxy.o
+./debug\TemperatureControlInterface.o
+./debug\OpticalAcquireInterface.o
+./debug\ExtOpticalAcquireInterface.o
+./debug\ExtTemperatureControlInterface.o
+./debug\moc_TOCDriveController.o
+);

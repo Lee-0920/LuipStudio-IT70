@@ -1,0 +1,14 @@
+INPUT(
+./debug\NP66DriveControllerPlugin.o
+./debug\NP66MeterPoints.o
+./debug\NP66OpticalMeterInterface.o
+./debug\NP66PeristalticPumpInterface.o
+./debug\NP66SolenoidValveInterface.o
+./debug\NP66ValveMap.o
+./debug\NP66DriveController.o
+./debug\Log.o
+./debug\NP66DriveControllerPluginProxy.o
+./debug\NP66TemperatureControlInterface.o
+./debug\NP66OpticalAcquireInterface.o
+./debug\moc_NP66DriveController.o
+);

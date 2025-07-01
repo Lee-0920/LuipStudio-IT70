@@ -1,0 +1,14 @@
+INPUT(
+./release\PT62THgControllerPlugin.o
+./release\Log.o
+./release\PT62THgController.o
+./release\PT62THgControllerPluginProxy.o
+./release\MeterPoints.o
+./release\OpticalAcquireInterface.o
+./release\OpticalMeterInterface.o
+./release\PeristalticPumpInterface.o
+./release\SolenoidValveInterface.o
+./release\TemperatureControlInterface.o
+./release\ValveMap.o
+./release\moc_PT62THgController.o
+);

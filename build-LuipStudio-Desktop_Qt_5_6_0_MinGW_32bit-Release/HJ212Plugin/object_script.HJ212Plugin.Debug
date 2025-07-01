@@ -1,0 +1,14 @@
+INPUT(
+./debug\HJ212Packet.o
+./debug\HJ212Protocol.o
+./debug\V2017DbsProtocol.o
+./debug\V2017WryProtocol.o
+./debug\HJ212Connection.o
+./debug\HJ212Platform.o
+./debug\HJ212SendQueue.o
+./debug\HJ212SerialConnection.o
+./debug\HJ212TcpConnection.o
+./debug\Log.o
+./debug\HJ212PluginProxy.o
+./debug\moc_HJ212SerialConnection.o
+);

@@ -1,0 +1,16 @@
+INPUT(
+./release\DriveControllerplugin.o
+./release\MeterPoints.o
+./release\OpticalMeterInterface.o
+./release\PeristalticPumpInterface.o
+./release\SolenoidValveInterface.o
+./release\ValveMap.o
+./release\DriveController.o
+./release\Log.o
+./release\DriveControllerPluginProxy.o
+./release\ElectrodeAcquireInterface.o
+./release\TemperatureControlInterface.o
+./release\ExtraTemperatureControlInterface.o
+./release\CurveData.o
+./release\moc_DriveController.o
+);

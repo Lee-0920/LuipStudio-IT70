@@ -1,0 +1,15 @@
+INPUT(
+./release\DeviceInfoInterface.o
+./release\DeviceStatusInterface.o
+./release\DeviceUpdateInterface.o
+./release\DscpSystemInterface.o
+./release\DeviceInterface.o
+./release\Version.o
+./release\UpdatableInfo.o
+./release\ManufDate.o
+./release\Log.o
+./release\ControllerPlugin.o
+./release\BaseController.o
+./release\InstrumentInfoInterface.o
+./release\ControllerPluginProxy.o
+);

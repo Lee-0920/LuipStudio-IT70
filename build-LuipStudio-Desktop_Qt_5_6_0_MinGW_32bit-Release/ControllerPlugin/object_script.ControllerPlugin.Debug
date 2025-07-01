@@ -1,0 +1,15 @@
+INPUT(
+./debug\DeviceInfoInterface.o
+./debug\DeviceStatusInterface.o
+./debug\DeviceUpdateInterface.o
+./debug\DscpSystemInterface.o
+./debug\DeviceInterface.o
+./debug\Version.o
+./debug\UpdatableInfo.o
+./debug\ManufDate.o
+./debug\Log.o
+./debug\ControllerPlugin.o
+./debug\BaseController.o
+./debug\InstrumentInfoInterface.o
+./debug\ControllerPluginProxy.o
+);
